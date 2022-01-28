@@ -47,7 +47,6 @@ INSTALLED_APPS = [
     'certificate',
     'report',
     'attestation',
-    'job',
     'recruitingAgency',
 ]
 
